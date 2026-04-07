@@ -21,3 +21,7 @@ console.log(add(2, 3));       // 5
 console.log(divide(10, 2));   // 5
 console.log(divide(10, 0));   // Error
 console.log(multiply(4, 5));  // 20
+console.log(add(2, 3));       // 5
+console.log(divide(10, 2));   // 5
+console.log(divide(10, 0));   // Error
+console.log(multiply(4, 5)); 
